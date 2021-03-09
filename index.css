@@ -1,0 +1,9 @@
+#myImage {
+    width: 240px;
+    /* display: none !important; */
+    position: absolute;
+    right: 0;
+    bottom: 5px;
+    opacity: 0;
+    transition: all 3s;
+}
